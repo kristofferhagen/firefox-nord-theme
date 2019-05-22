@@ -3,7 +3,7 @@
     "manifest_version": 2,
     "name": "nord-theme",
     "description": "Nord theme",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "theme": {
         "colors": {
             "accentcolor": "#2e3440",
